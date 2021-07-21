@@ -12,4 +12,4 @@ Nim Ganjil Aplikasi Iuran Kas RT01/04
 
 # Link Web Hosting http://kelolaiurankas.000webhostapp.com/
 
-Email:Rizki@gmail.com Password:ubtckstoh123
+Email:admin@gmail.com Password:admin
